@@ -7,7 +7,8 @@ My responsibility and task:
 
 Usage: Ad a component can be called by the front-end webpage
 
-Technology： T-SQL, Power BI, Power Query
+Technology： T-SQL, Power BI, Power Query, Excel
 
 Useful links:
 - DingXiangYuan real-time epidemic data https://ncov.dxy.cn/ncovh5/view/pneumonia
+- Tutorial about web scraping in Power BI and Excel Power Query: https://datachant.com/2017/03/30/web-scraping-power-bi-excel-power-query/
