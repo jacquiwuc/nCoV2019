@@ -1,5 +1,5 @@
 # nCoV2019
-This volunteer project aims to collect, gather information of global distribution of nCoV cases, which will be a part of Information Collection Platform for Wuhan 2019-nCoV Epidemic Prevention.
+This volunteer project aims to collect, gather information of global distribution of nCoV cases, which will be a part of Information Collection Platform for Wuhan 2019-nCoV Epidemic Prevention (http://community.wuhan2020.org.cn/en-us/index.html).
 
 My responsibility and task:
 -Collect, migrate and transform real-time data
