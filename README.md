@@ -1,9 +1,10 @@
 # nCoV2019
 This volunteer project aims to collect, gather information of global distribution of nCoV cases, which will be a part of Information Collection Platform for Wuhan 2019-nCoV Epidemic Prevention (http://community.wuhan2020.org.cn/en-us/index.html).
 
-My responsibility and task:
--Collect, migrate and transform real-time data
--be responsible for adhoc Power BI reports (mainly map visualization)
+My responsibilities:
+• Collect, migrate and transform real-time data.
+• Generate adhoc Power BI reports (mainly map visualization).
+• Create and update various Power BI dashboards involving a variety of features like Charts, Filters, Drilldown, Drill-Through, and bookmarks to provide business insights for patients.
 
 Usage: Ad a component can be called by the front-end webpage
 
